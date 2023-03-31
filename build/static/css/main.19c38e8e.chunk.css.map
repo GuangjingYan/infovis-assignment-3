@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,WAEE,sBAEF,CACA,2BAJE,YAAa,CAEb,0BAMF,CAJA,gBAEE,qBAEF","file":"main.19c38e8e.chunk.css","sourcesContent":[".Container {\n  display: flex;\n  justify-content: center;\n  justify-content: flex-start;\n}\n.VerticalLayout{\n  display: flex;\n  flex-direction: column;\n  justify-content: flex-start;\n}"]}
